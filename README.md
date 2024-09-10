@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fakher-bourray
-- 👀 I’m interested in devops
-- 🌱 I’m currently learning devops
+- 👀 I’m interested in It
 - 💞️ I’m looking to collaborate on project management
 - 📫 How to reach me fakherbourray@gmail.com
 
